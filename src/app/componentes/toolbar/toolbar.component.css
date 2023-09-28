@@ -1,0 +1,28 @@
+.toolbar-container{
+    margin-top: 10px;
+}
+
+.toolbar-container ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.toolbar-container ul > li {
+    margin-top: 10px;
+    margin-right: 10px;
+    color: white;
+    list-style: none;
+    font-style: bolder;
+}
+
+.toolbar-container a  {
+    color: white;
+    text-decoration: none;
+    font-style: bold;
+}
+
+.toolbar-container img{
+    max-width: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}

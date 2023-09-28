@@ -1,0 +1,39 @@
+.container-little-card{
+    width: 950px;
+    height: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+ }
+ 
+ .little-card-img > img{
+     border-radius: 20px;
+     max-width: 500px;
+     min-width:500px ;
+ }
+ 
+.little-textos{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+}
+
+ .little-textos > a {
+     font-size: 35px;
+     font-style: italic;
+     font-weight: bolder;
+     color: white;
+     text-decoration: none;
+ }
+ 
+ .little-textos p {
+     color: rgb(161, 161, 161);
+     font-size: 18px;
+ }
