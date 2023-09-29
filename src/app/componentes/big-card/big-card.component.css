@@ -12,7 +12,8 @@
 
 .big-card-img > img{
     border-radius: 20px;
-    max-width: 840px;
+    width: 840px;
+    min-width: 840px;
 }
 
 .big-card-title > a {
