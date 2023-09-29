@@ -1,6 +1,6 @@
 .container-little-card{
     width: 950px;
-    height: 350px;
+    height: 250px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -13,8 +13,10 @@
  
  .little-card-img > img{
      border-radius: 20px;
-     max-width: 500px;
-     min-width:500px ;
+     width: 330px;
+     height: 240px;
+     max-width: 330px;
+     min-width:330px ;
  }
  
 .little-textos{
@@ -26,7 +28,7 @@
 }
 
  .little-textos > a {
-     font-size: 35px;
+     font-size: 30px;
      font-style: italic;
      font-weight: bolder;
      color: white;

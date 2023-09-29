@@ -1,5 +1,5 @@
 .title-container {
-    color: white;
+    color: rgb(0, 167, 218);
     width: 600px;
     height: 120px;
 }
@@ -11,4 +11,8 @@
     font-size: 70px;
     display: flex;
     justify-content: left;
+    font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
+    background-image: linear-gradient(to bottom, rgb(80, 205, 255), rgb(0, 29, 82));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
